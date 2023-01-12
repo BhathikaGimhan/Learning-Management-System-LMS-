@@ -1,5 +1,5 @@
 # Learning-Management-System-LMS-
-This project created by using HTML, CSS, PHP
+This project created by using HTML, CSS, PHP, JS
 A Learning Management System (LMS) built using PHP is a web-based platform that allows organizations to manage and deliver educational and training content to students and employees using the PHP programming language.
 
 PHP is a widely-used, open-source scripting language that is particularly well-suited for web development and can be easily integrated with HTML, CSS, and JavaScript to create dynamic and interactive web pages.
